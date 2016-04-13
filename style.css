@@ -1,0 +1,87 @@
+.bold {
+  font-weight: bold;
+}
+
+.center {
+  text-align: center;
+}
+
+.col-left {
+  float: left;
+}
+
+.col-right {
+  float: right;
+}
+
+.contact {
+  height: 70px;
+}
+
+.contact-item {
+  float: left;
+  width: 225px;
+}
+
+.descriptions {
+  padding-left: 20px;
+  list-style: circle;
+}
+
+.light {
+  color: #aaa;
+  font-size: 12px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+
+.page {
+  width: 900px;
+  min-height: 29.7cm;
+  margin: 5px auto;
+  background: white;
+  padding: 20px 50px;
+}
+
+.row:after {
+  clear: both;
+}
+
+.row:before, .row:after {
+  content: "";
+  display: table;
+}
+
+.section {
+  border-bottom: 1px solid #333333;
+  padding: 10px 0 15px;
+}
+
+.section-content {
+  width: 80%;
+  line-height: 24px;
+  margin: 10px 0 10px;
+  padding: 0px 10px;
+}
+
+.section-header {
+  padding: 0 0 0 10px;
+  text-transform: uppercase;
+}
+
+ul.skills {
+  float: left;
+  width: 15%;
+  padding-left: 0px;
+  margin: 4px 20px 0 0;
+}
+
+ul.skills li {
+  list-style: none;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.title {
+  font-style: italic;
+}
