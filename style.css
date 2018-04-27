@@ -14,10 +14,6 @@
   float: right;
 }
 
-.contact {
-  height: 70px;
-}
-
 .contact-item {
   float: left;
   width: 225px;
@@ -59,7 +55,7 @@
 
 .section-content {
   width: 80%;
-  line-height: 20px;
+  line-height: 21px;
   margin: 5px 0 5px;
   padding: 0px 10px;
 }
