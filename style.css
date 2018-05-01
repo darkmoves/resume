@@ -55,7 +55,6 @@
 
 .section {
   border-bottom: 1px solid #333333;
-  padding: 0px 0 0px;
 }
 
 .section-content {
@@ -73,7 +72,7 @@
 
 ul.skills {
   float: left;
-  width: 15%;
+  width: 17%;
   padding-left: 0px;
   margin: 4px 20px 0 0;
 }
@@ -85,8 +84,9 @@ ul.skills li {
 }
 
 .skills-section-content {
-	width: 80%;
 	line-height: 21px;
+	margin: 5px 0px;
+	width: 85%;
 }
 
 .title {
