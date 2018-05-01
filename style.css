@@ -16,12 +16,17 @@
 
 .contact-item {
   float: left;
+  margin-top: 15px;
   width: 225px;
 }
 
 .descriptions {
   padding-left: 20px;
   list-style: circle;
+}
+
+.header {
+	font-family: "Lucida Console", Monaco, monospace;
 }
 
 .light {
@@ -50,11 +55,11 @@
 
 .section {
   border-bottom: 1px solid #333333;
-  padding: 10px 0 15px;
+  padding: 0px 0 0px;
 }
 
 .section-content {
-  width: 80%;
+  width: 95%;
   line-height: 21px;
   margin: 5px 0 5px;
   padding: 0px 10px;
@@ -62,6 +67,7 @@
 
 .section-header {
   padding: 0 0 0 10px;
+  text-align: center;
   text-transform: uppercase;
 }
 
@@ -76,6 +82,11 @@ ul.skills li {
   list-style: none;
   font-size: 16px;
   margin-bottom: 5px;
+}
+
+.skills-section-content {
+	width: 80%;
+	line-height: 21px;
 }
 
 .title {
