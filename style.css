@@ -59,14 +59,13 @@
 
 .section-content {
   width: 95%;
-  line-height: 21px;
+  line-height: 22px;
   margin: 5px 0 5px;
   padding: 0px 10px;
 }
 
 .section-header {
-  padding: 0 0 0 10px;
-  text-align: center;
+  line-height: 0px;
   text-transform: uppercase;
 }
 
@@ -95,8 +94,4 @@ ul.skills li {
   float: left;
   padding-left: 10px;
   text-transform: uppercase;
-}
-
-.title {
-  font-style: italic;
 }
