@@ -1,0 +1,72 @@
+Tourlane
+Senior Software Engineer
+Oct 2019 - Dec 2023
+
+- Price table to BE initiative
+- Competence with AWS
+- Leadership and collaboration across teams - Lambus sync and price table work (maybe this comes out in later descriptions?)
+
+- Decouple TripViz sync and Wetu Sync when possible. Perform Wetu Sync in Sidekiq job, when no new content is needed.
+- Separate non-content calls from the service (SF Opp Owner update, viz builder)
+-
+- Trip Planner
+- Elephant
+- Wetu
+
+- Incorporate sync to Lambus in order to make trip data available in an iOS app. Retroactively applied to existing trips as well as new ones.
+
+- Moved price calculation logic from FE to BE in real time, ensuring consistency between both calculations.
+- Used AWS Cloudwatch to gather data on all calculations made in the previous day, including differences between the two calculations.
+
+
+Movinga
+Senior Software Engineer
+Feb 2019 - Jul 2019 (6 months)
+
+- Coded as part of a team building Movinga Rails apps, internal tools and APIs to improve the moving experience for customers; delivered new features while improving existing functionality, expanding test coverage, and documenting best practices
+- Integrated comprehensive logic into an API to handle customer payments and update data for upcoming moves
+
+
+
+The Gnar Company
+Freelance Software Developer
+Jun 2018 - Jul 2018, Oct 2018 - Jan 2019 (6 months)
+
+- Created a system to track surgical tool deliveries to hospitals for TORq by adding functionality to Rails APIs and ReactJS apps
+- Built interactive, business ROI calculators for the Hobson & Co Rails application, while also upgrading Rails and improving tests
+
+
+
+The Gnar Company
+Software Developer
+Apr 2016 - Jan 2018 (1 year, 9 months)
+
+- Built a series of APIs for the LevelUp Rails app to make new food providers available to customers via their mobile app
+- Added new features to the Qeepsake Rails app as the sole project engineer, including photo upload, and tiered feature access
+- Coded and attended meetings remotely over the course of 6 months while traveling across Europe, Africa, and South America
+
+
+
+MeYou Health
+Software Developer
+Mar 2014 - Jan 2016 (1 year, 10 months)
+
+- Coded as part of a development team for Walkadoo and Well-Being Tracker in an Agile environment with weekly deliverables
+- Built an internal dashboard to display user metrics for five products, driving metric-based development; utilized product APIs to gather data and display them via a dynamic front end view
+
+
+
+Harmonix Music Systems
+QA Lead
+Oct 2007 - Jun 2012 (4 years, 9 months)
+
+- Integrated Agile methodology with the QA process for Dance Central 2 by training testers and embedding them on feature teams, resulting in increased codebase knowledge and 25% more bugs found than the previous project
+- Managed a Rock Band QA team as it grew from 5 to 10 testers; created processes resulting in a 400% increase in testing capacity
+
+
+
+General Electric Energy
+Gas Turbine Controls Engineer / Classroom Trainer
+Oct 2001 - Oct 2006 (5 years)
+
+- Managed crews of laborers and specialists on $10MM+ energy projects in 7 different countries; acted as liaison to work cooperatively with GE customers to resolve issues
