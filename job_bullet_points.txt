@@ -2,21 +2,17 @@ Tourlane
 Senior Software Engineer
 Oct 2019 - Dec 2023
 
-- Price table to BE initiative
-- Competence with AWS
-- Leadership and collaboration across teams - Lambus sync and price table work (maybe this comes out in later descriptions?)
+- Worked across teams and disciplines to add new functionality to heavily used APIs while maintaining current functionality and uptime; improved test coverage, documentation, and performed troubleshooting and real-time fixes
+- Led a multi-team effort to migrate complex price calculation logic from an application front-end to back-end
+  - Moved price calculation logic from FE to BE in real time, ensuring consistency between both calculations.
+  - Used AWS Cloudwatch to gather data on all calculations made in the previous day to find and analyze differences between the two calculations.
+- Designed and built a data pipeline with Salesforce and a third-party iOS developer, allowing data for 40k+ existing trips to be accurately displayed in the Tourlane iOS app
+  - Incorporate sync to Lambus in order to make trip data available in an iOS app.
+  - Retroactively applied to existing trips as well as new ones.
+- Optimized fetching of content when modifying trip data, reducing API response time by up to 80%
+  - Decouple TripViz sync and Wetu Sync when possible. Perform Wetu Sync in Sidekiq job, when no new content is needed.
+  - Separate non-content calls from the service (SF Opp Owner update, viz builder)
 
-- Decouple TripViz sync and Wetu Sync when possible. Perform Wetu Sync in Sidekiq job, when no new content is needed.
-- Separate non-content calls from the service (SF Opp Owner update, viz builder)
--
-- Trip Planner
-- Elephant
-- Wetu
-
-- Incorporate sync to Lambus in order to make trip data available in an iOS app. Retroactively applied to existing trips as well as new ones.
-
-- Moved price calculation logic from FE to BE in real time, ensuring consistency between both calculations.
-- Used AWS Cloudwatch to gather data on all calculations made in the previous day, including differences between the two calculations.
 
 
 Movinga
