@@ -95,3 +95,23 @@ ul.skills li {
   padding-left: 10px;
   text-transform: uppercase;
 }
+
+.descriptions li {
+  font-size: 16px;
+}
+
+.name {
+  font-size: 16px;
+}
+
+.position {
+  font-size: 16px;
+}
+
+.timeline {
+  font-size: 16px;
+}
+
+.interests {
+  font-size: 16px;
+}
