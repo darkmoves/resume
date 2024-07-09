@@ -1,1 +1,1 @@
-Creating my resume in HTML, CSS and Markdown because Word is particularly opinionated in its formatting choices.
+I built my resume in HTML, CSS and Markdown for better overall control of formatting.
